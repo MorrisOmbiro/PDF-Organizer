@@ -1,0 +1,9 @@
+.navbar-color {
+    background-color: #FFFFFF;
+}
+
+@media (min-width: 768px) and (max-width: 1000px) {
+    .navbar-collapse {
+        display: none !important;
+    }
+}
